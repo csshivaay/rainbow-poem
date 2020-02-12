@@ -3,3 +3,5 @@ jamuno
 hra
 green
 tellow
+purple
+red
